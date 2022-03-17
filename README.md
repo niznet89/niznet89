@@ -6,6 +6,13 @@ My name is Tenzin and when I'm inspired I'll add some text here.
 
 :construction_worker: I build things: futuredomain.com
 
+Find me on the socials:
+
+<a href="https://twitter.com/tenzin_rose"><img src="https://img.icons8.com/color/48/000000/twitter--v2.png"/></a>
+<a href="https://www.instagram.com/rosetenzin"><img src="https://img.icons8.com/fluency/48/000000/instagram-new.png"/></a>
+
+
+
 ```ruby 
 class Person
   def initialize
