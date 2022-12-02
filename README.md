@@ -4,7 +4,7 @@ My name is Tenzin and when I'm inspired I'll add some text here.
 
 ✍ I write things: https://tenzinrose.medium.com/
 
-:construction_worker: I build things: m00nlink.xyz/tenzin
+:construction_worker: I build things: https://m00nlink.xyz/tenzin
 
 Find me on the socials:
 
