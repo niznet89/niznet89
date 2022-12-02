@@ -4,7 +4,7 @@ My name is Tenzin and when I'm inspired I'll add some text here.
 
 ✍ I write things: https://tenzinrose.medium.com/
 
-:construction_worker: I build things: futuredomain.com
+:construction_worker: I build things: m00nlink.xyz/tenzin
 
 Find me on the socials:
 
@@ -24,8 +24,8 @@ class Person
   end
 
   def past_projects
-    @previous_employer = { role: 'sales executive', location: ['san francisco', 'new york', 'sydney'], tenure: '7.5 years' }
-    @previous_employers = ['oracle', 'esv']
+    @previous_employer = { role: 'sales executive', locations: ['san francisco', 'new york', 'sydney'], tenure: '7.5 years' }
+    @previous_employers = ['fastly', 'oracle', 'esv']
   end
 
   def future_projects
