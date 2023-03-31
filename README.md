@@ -4,7 +4,7 @@ My name is Tenzin and when I'm inspired I'll add some text here.
 
 ✍ I write things: https://tenzinrose.medium.com/
 
-:construction_worker: I build things: https://m00nlink.xyz/tenzin
+:construction_worker: I build things: https://trytali.com
 
 Find me on the socials:
 
@@ -18,7 +18,7 @@ class Person
   def initialize
     @name = 'Tenzin Rose'
     @occupation = 'Entreprenuer'
-    @interests = ['surfing', 'web3', 'martial arts', 'reading', 'stand up comedy']
+    @interests = ['surfing', 'AI', 'martial arts', 'reading', 'stand up comedy']
     @twitter = '@rose_tenzin'
     @linkedin = 'https://www.linkedin.com/in/tenzinrose/'
   end
@@ -34,7 +34,7 @@ class Person
       revenue = 0
       market_fit = MarketFit.new(timing: problem.timing?, demand: problem.demand?, willing_to_pay: problem.pay?)
       if problem == market_fit
-        revenue += '$69,000,000'
+        revenue += '$100,000,000'
       end
     end
   end
