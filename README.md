@@ -1,6 +1,6 @@
 # Welcome!
 
-My name is Tenzin and when I'm inspired I'll add some text here. 
+My name is Tenzin and I like building software that makes peoples lives better.
 
 ✍ I write things: https://tenzinrose.medium.com/
 
